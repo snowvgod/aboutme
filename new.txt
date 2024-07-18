@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Eranjan Jayasinghe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1, h2 {
+            margin: 0 0 15px;
+        }
+        section {
+            margin: 20px 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e2e2e2;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+    <div class="container">
+        <section id="introduction">
+            <h2>Eranjan Jayasinghe</h2>
+            <p><strong>3D Modeler & Animator</strong></p>
+            <p>Welcome to my digital space! I am Eranjan Jayasinghe, a passionate and dedicated 3D modeler and animator with a keen eye for detail and a deep love for storytelling through visual media. With a fresh perspective and a relentless drive to evolve in this dynamic industry, I am committed to transforming creative ideas into compelling visual narratives.</p>
+        </section>
+        <section id="journey">
+            <h2>My Journey</h2>
+            <p>From an early age, I was captivated by the magic of animation and the endless possibilities it offered. This fascination led me to pursue a career in 3D modeling and animation. I am currently honing my skills and expanding my knowledge as I pursue a BA (Hons) in Animation & VFX at AMDT School of Creativity. My educational journey has equipped me with a solid foundation in both traditional and digital art forms, enabling me to bring imaginative concepts to life.</p>
+        </section>
+        <section id="skills">
+            <h2>Skills & Expertise</h2>
+            <p>I specialize in creating intricate 3D models and animations that capture the essence of a story. My proficiency includes:</p>
+            <ul>
+                <li><strong>3D Modeling & Animation:</strong> Bringing characters and environments to life using Blender and other industry-standard tools.</li>
+                <li><strong>Texturing & Rendering:</strong> Enhancing models with realistic textures and lighting using Substance Painter.</li>
+                <li><strong>Video Editing & Compositing:</strong> Crafting polished final products with Adobe After Effects and Premiere Pro.</li>
+                <li><strong>Graphic Design:</strong> Creating stunning visuals with Adobe Photoshop and Illustrator.</li>
+            </ul>
+        </section>
+        <section id="passion">
+            <h2>Passion & Vision</h2>
+            <p>My passion for animation and 3D modeling goes beyond just creating visually appealing content. I believe in the power of storytelling and its ability to evoke emotions, inspire, and connect people. My goal is to leverage my creativity and technical skills to excel in a leading animation or VFX studio, contributing to projects that push the boundaries of imagination and innovation.</p>
+        </section>
+        <section id="contact">
+            <h2>Let's Connect</h2>
+            <p>I am always eager to collaborate with like-minded creatives and explore new opportunities. Whether you have a project in mind, need a 3D modeler and animator, or simply want to share ideas, feel free to reach out.</p>
+            <p><strong>Contact Me:</strong></p>
+            <ul>
+                <li>Email: <a href="mailto:eranjan.jayasinghe2020@gmail.com">eranjan.jayasinghe2020@gmail.com</a></li>
+                <li>Phone: +94705687920</li>
+                <li>Location: 14/119, Jayasinghe Mawatha, Rilaulla, Kandana</li>
+            </ul>
+            <p><strong>Follow My Journey:</strong></p>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/eranjan-jayasinghe" target="_blank">LinkedIn</a></li>
+                <li><a href="https://www.instagram.com/eranjanjayasingheofficial" target="_blank">Instagram</a></li>
+                <li><a href="https://www.behance.net/eranjanjayasinghe" target="_blank">Behance</a></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>Thank you for visiting my website. I look forward to creating something extraordinary together!</p>
+    </footer>
+</body>
+</html>
